@@ -1,9 +1,9 @@
 # Neural Style Transfer
 A Neural Algorithm of Artistic Style
 
-Реализация статьи https://arxiv.org/pdf/1508.06576.pdf
+Implementation of article https://arxiv.org/pdf/1508.06576.pdf
 
-Алгоритм создает новую картину по фотографии, заимствуя стиль с другой картины.
+Neural network creates a new picture using original photo and picture with style.
 
 ![img](foto_dog.png) ![img](point.png)
 
